@@ -1,0 +1,1414 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Page not found &laquo;  wordpress Product Creator | Wordpress Theme | Plugin Development | Free Theme Download</title> 
+	<meta name='robots' content='max-image-preview:large' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/kamleshyadav.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='classic-theme-styles-css' href='https://kamleshyadav.com/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://kamleshyadav.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wplp-cookiepopup-custom-style-css' href='https://kamleshyadav.com/wp-content/plugins/wplp/admin/partials/cookie-popup/assets/css/wplp-cookiepopup-custom-style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wplp-css' href='https://kamleshyadav.com/wp-content/plugins/wplp/public/css/wplp-public.css?ver=1.0.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://kamleshyadav.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://kamleshyadav.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='wplp-cookiepopup-custom-script-js-extra'>
+/* <![CDATA[ */
+var wplp_cookiepopup_data = {"ajaxurl":"https:\/\/kamleshyadav.com\/wp-admin\/admin-ajax.php","cookiepopup_data":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://kamleshyadav.com/wp-content/plugins/wplp/admin/partials/cookie-popup/assets/js/wplp-cookiepopup-custom-script.js?ver=6.1.3' id='wplp-cookiepopup-custom-script-js'></script>
+<script type='text/javascript' src='https://kamleshyadav.com/wp-content/plugins/wplp/public/js/wplp-public.js?ver=1.0.0' id='wplp-js'></script>
+<link rel="https://api.w.org/" href="https://kamleshyadav.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://kamleshyadav.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://kamleshyadav.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1.3" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,200' rel='stylesheet' type='text/css' />
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
+	<!--[if lt IE 9]>
+	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+	<![endif]-->              		
+	<link rel="stylesheet" href="https://kamleshyadav.com/wp-content/themes/hsoft/style.css" type="text/css" media="screen" title="no title" charset="utf-8"/>
+	<!--[if IE]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<link rel="stylesheet" href="https://kamleshyadav.com/wp-content/themes/hsoft/css/mobile.css" type="text/css" media="screen" title="no title" charset="utf-8"/>
+	
+	<link rel="stylesheet" href="https://kamleshyadav.com/wp-content/themes/hsoft/css/slicknav.css" />
+		<link rel="stylesheet" href="https://kamleshyadav.com/wp-content/themes/hsoft/css/bootstrap.css" />
+	
+	<link rel="shortcut icon" type="image/x-icon" href="" />
+	
+	<script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+<!--	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>-->
+	<script src="https://kamleshyadav.com/wp-content/themes/hsoft/js/jquery.infinitescroll.js"></script>
+	<script src="https://kamleshyadav.com/wp-content/themes/hsoft/js/jquery.slicknav.js"></script>
+	<script src="https://kamleshyadav.com/wp-content/themes/hsoft/js/retina-1.1.0.min.js"></script>
+	<script src="https://kamleshyadav.com/wp-content/themes/hsoft/js/bootstrap.js"></script>
+	<script src="https://kamleshyadav.com/wp-content/themes/hsoft/js/jquery.mixitup.js"></script>
+
+	
+	<!-- flickr slideshow js / css -->
+    <script src="https://kamleshyadav.com/wp-content/themes/hsoft/js/modernizr-custom-v2.7.1.min.js" type="text/javascript"></script>
+    <script src="https://kamleshyadav.com/wp-content/themes/hsoft/js/jquery-finger-v0.1.0.min.js" type="text/javascript"></script>
+    <script src="https://kamleshyadav.com/wp-content/themes/hsoft/js/flickerplate.min.js" type="text/javascript"></script>
+	<link href="https://kamleshyadav.com/wp-content/themes/hsoft/css/flickerplate.css"  type="text/css" rel="stylesheet">
+    
+<!--	<script src="https://kamleshyadav.com/wp-content/themes/hsoft/js/jquery.film_roll.min.js"></script>-->
+	<script src="https://kamleshyadav.com/wp-content/themes/hsoft/js/jquery.carouFredSel-6.2.1.js"></script>
+	
+	<script src="https://kamleshyadav.com/wp-content/themes/hsoft/js/scripts.js"></script>
+	
+		
+	<style type="text/css">
+	body {
+			
+		
+	}
+	</style>
+<script type="text/javascript">
+	//Home Page sorting
+$(document).ready(function($){
+    $("#grid").mixitup({
+        filterSelector: ".filter-item"
+    });
+    $(".filter-item").click(function(e) {
+        e.preventDefault()
+    });
+    });
+  
+</script>			
+</head>
+<body class="error404">
+<header id="header">
+	<div class="header_bottom">
+	<div id="hs_header_info">
+	<div class="container">
+			<img src="https://kamleshyadav.com/wp-content/themes/hsoft/images/Email.png"/>
+			<a href="#"> support@pixelnx.com</a>
+		</div>
+		</div>
+		<div class="container">
+		
+		
+		
+			<div class="full_logo_cont">
+				 
+					<a href="https://kamleshyadav.com">
+					<img src="http://kamleshyadav.com/wp-content/uploads/2015/07/himanshusofttech11.png" class="logo" alt="logo" /></a>
+				
+					
+								
+			</div><!--//logo_cont-->		
+			<div class="header_menu">
+				<ul id="main_header_menu" class="menu"><li id="menu-item-380" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-380"><a href="http://kamleshyadav.com/">HOME</a></li>
+<li id="menu-item-595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-595"><a href="https://kamleshyadav.com/hire/">HIRE US</a></li>
+<li id="menu-item-624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-624"><a href="https://kamleshyadav.com/subscribe-offers/">Subscribe For Offers</a></li>
+<li id="menu-item-428" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-428"><a href="https://kamleshyadav.com/contact/">CONTACT</a></li>
+</ul>			</div><!--//header_menu-->	
+			
+			<div class="clear"></div>
+		
+			<!--
+			<div class="header_search">
+				<form role="search" method="get" id="searchform" action="https://kamleshyadav.com/">
+					<input type="text" name="s" id="s" />
+					<INPUT TYPE="image" SRC="https://kamleshyadav.com/wp-content/themes/hsoft/images/search-icon2.jpg" class="header_search_icon" BORDER="0" ALT="Submit Form">
+				</form>
+			</div>--><!--//header_search-->
+						
+			<div class="clear"></div>
+		</div><!--//container-->
+		
+	</div><!--//header_bottom-->	
+</header><!--//header-->
+
+<div class="header_spacing"></div>
+  
+<div class="container">
+<div class="row">
+<div class="col-lg-12 col-md-12 col-sm-12">
+  <div class="home_box_filter">
+        <ul class="home_box_filter_center">
+        <li><a href="#" class="filter-item active" data-filter="all">SHOW All</a></li>
+         		 <li><a href="#" class="filter-item" data-filter="wordpress">wordpress</a></li><li><a href="#" class="filter-item" data-filter="html">html</a></li><li><a href="#" class="filter-item" data-filter="php-scripts">php-scripts</a></li><li><a href="#" class="filter-item" data-filter="mobile">mobile</a></li><li><a href="#" class="filter-item" data-filter="psd">psd</a></li><li><a href="#" class="filter-item" data-filter="marketing">marketing</a></li><li><a href="#" class="filter-item" data-filter="cms-themes">cms-themes</a></li><li><a href="#" class="filter-item" data-filter="javascript">javascript</a></li><li><a href="#" class="filter-item" data-filter="plugins">plugins</a></li>          
+        </ul>
+ </div>
+ <div style="text-align: center;">
+ <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-5947997164800794"
+     data-ad-slot="1521960669"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+ <div class="home_box_imgs">
+      <div id="grid">
+      
+  <div class="col-lg-4 col-md-4 col-sm-12 wordpress mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/432463458/Sales&Preview/01-Rockon_Preview.__large_preview.jpg" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>Rockon - Night Club WordPress Theme With AI Content Generator</p>
+       <a href="https://themeforest.net/item/music-club-musicbanddjclubparty-wordpress-theme-rockon/full_screen_preview/9467649" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://themeforest.net/item/music-club-musicbanddjclubparty-wordpress-theme-rockon/9467649" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://themeforest.net/item/music-club-musicbanddjclubparty-wordpress-theme-rockon/9467649" target="_blank">Rockon - Night Club WordPress Theme With AI Content Generator</a></h3><img src="https://previews.customer.envatousercontent.com/files/432463458/Sales&Preview/01-Rockon_Preview.__large_preview.jpg" />
+		<p><strong>
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+Intro
+
+People are having social disease these days. They used to go out every night for hangout with their good ones. After their hectic day scheduled, they want to relax &amp; refresh themselves. Night / Music Club are the best way to refresh one self and now a day it becomes a trend. Music Clubs are the place where people found new companies and it also energize them like rocking music. This platform gives them to explore themselves and full them with positive waves. Club’s magical music flew away their stress &amp; worries and lets them to enjoy life like it’s a last day. Music clubs effervescent and exuberant people’s mind.
+
+For such interesting and loving business, we developed and introducing he</strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 wordpress mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/406248370/preview.__large_preview.png" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>Miraculous - Multi Vendor Online Music Store  Elementor WordPress Theme</p>
+       <a href="https://themeforest.net/item/miraculous-online-music-store-wordpress-theme/full_screen_preview/22683275" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://themeforest.net/item/miraculous-online-music-store-wordpress-theme/22683275" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal1">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://themeforest.net/item/miraculous-online-music-store-wordpress-theme/22683275" target="_blank">Miraculous - Multi Vendor Online Music Store  Elementor WordPress Theme</a></h3><img src="https://previews.customer.envatousercontent.com/files/406248370/preview.__large_preview.png" />
+		<p><strong>Miraculous – Online Music Store Elementor WordPress Theme is a streaming music service. By which you can play any music at any time. Miraculous Online Music Store  Elementor WordPress Theme is designed very neat and clean, and 100% responsive. This music website theme is designed in such a way that you can use this for any online music store. This music website theme has dozens of unique features and layouts which empower you to create a professional music store.
+Also, the purpose of this music store theme is to provide a platform for musicians, artists, and everyone working in the entertainment industry like Orchestra, Sound Store, Online Radio Station, etc. 
+At the point when words blur, music talks.” Do you feel your melodic ability or m</strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 html mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/185862627/Theme%20Preview/00_preview.__large_preview.jpg" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>Music Club - Rockon Website HTML Template</p>
+       <a href="https://themeforest.net/item/music-club-musicbanddjclubparty-website-template-rockon/full_screen_preview/8002957" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://themeforest.net/item/music-club-musicbanddjclubparty-website-template-rockon/8002957" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal2">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://themeforest.net/item/music-club-musicbanddjclubparty-website-template-rockon/8002957" target="_blank">Music Club - Rockon Website HTML Template</a></h3><img src="https://previews.customer.envatousercontent.com/files/185862627/Theme%20Preview/00_preview.__large_preview.jpg" />
+		<p><strong>
+
+
+
+
+
+
+
+
+
+
+
+Music Club – Music/Band/Dj/Club/Party Website Template Rockon
+Rock your club and pub business with our elegantly designed RockON – Responsive HTML Template. RockON compresses of all the engrossing features which are needed for a proliferative business. NightClub HTML template is aesthetically fascinating, terrifically dazzling, fabulously ingenious and marvelously pleasing. It is template with one page, music club multi-page or night club multi-page. It works great for djs, club/pub/disc owners, concerts organizers, parties’ organizers, musicians, gallery managers, etc. It comes with 6-color &amp; 5-background pre-options and 2-different price table option. It has a very innovative and inventive animated layered slider option. I</strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 html mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/372150448/preview-image%20(1).__large_preview.jpg" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>Eco Recycling - A Multipurpose Template</p>
+       <a href="https://themeforest.net/item/eco-recycling-a-multipurpose-template/full_screen_preview/9850285" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://themeforest.net/item/eco-recycling-a-multipurpose-template/9850285" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal3">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://themeforest.net/item/eco-recycling-a-multipurpose-template/9850285" target="_blank">Eco Recycling - A Multipurpose Template</a></h3><img src="https://previews.customer.envatousercontent.com/files/372150448/preview-image%20(1).__large_preview.jpg" />
+		<p><strong>
+
+
+
+
+
+
+
+
+
+
+
+Eco.Recycling – A Multipurpose Template
+
+Eco Recycling – is a unique, multipurpose template which enables you to create almost unlimited amount of different and unique page layouts. The template relates to ecology and recycling. It is suitable for any agency or individual that wants to inform and notify others about recycling and what is good for environment.
+
+
+
+Features
+
+     4 Different Versions 
+     6 Different Color Variations 
+     7 Different Home Pages In Each Version
+     E-commerce 
+     Boxed View 
+     Rainy Background 
+     Font Awesome Icons 
+     100+ Shortcodes 
+     Smooth Scrolling 
+     Video Breadcrumb 
+     Video Banner 
+     Working PHP Contact Form 
+     Fully Responsive template 
+     Mega Menu with icons</strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 wordpress mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/432012912/Artist_preview.__large_preview.jpg" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>Artist Wordpress Theme: Showcase Painter, Sketcher, Writer & Handcraft Art with AI Content Generator</p>
+       <a href="https://themeforest.net/item/artist-wordpress-theme-painter-exhibition-sketch-handcraft-writer-art-pencil-design-showcase/full_screen_preview/8922211" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://themeforest.net/item/artist-wordpress-theme-painter-exhibition-sketch-handcraft-writer-art-pencil-design-showcase/8922211" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal4">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://themeforest.net/item/artist-wordpress-theme-painter-exhibition-sketch-handcraft-writer-art-pencil-design-showcase/8922211" target="_blank">Artist Wordpress Theme: Showcase Painter, Sketcher, Writer & Handcraft Art with AI Content Generator</a></h3><img src="https://previews.customer.envatousercontent.com/files/432012912/Artist_preview.__large_preview.jpg" />
+		<p><strong>
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artist Wordpress Theme – Painter Exhibition Sketch Handcraft Writer Art Pencil Design ShowCase
+Innovation, Perfection and Creativity at its best.
+Artist WordPress Theme is WP Version of Responsive and Innovative HTML5 Template which is a NOMINEE for BEST CSS AWARD. A great combination of Unique Sketch Design and elements of HTML5, styled with CSS 3, a Powerful Backend which Gives user, a ability to Customize and Change almost Everything.
+- Kamlesh Yadav.
+
+
+Intro
+“ARTIST” the name itself is enough to get the sensation of beautifulness of this wp theme. After huge success of our Artist HTML Template and Artist PSD Template, We Proudly presents ARTIST Wordpress Theme. ARTIST is multi page responsive wp theme with all required pag</strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 wordpress mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/254984708/Preview.jpg" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>CF7 Auto Responder Addon</p>
+       <a href="https://codecanyon.net/item/contact-form-7-auto-responder-addon/full_screen_preview/6000032" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://codecanyon.net/item/contact-form-7-auto-responder-addon/6000032" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal5">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal5" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://codecanyon.net/item/contact-form-7-auto-responder-addon/6000032" target="_blank">CF7 Auto Responder Addon</a></h3><img src="https://previews.customer.envatousercontent.com/files/254984708/Preview.jpg" />
+		<p><strong>
+
+
+
+
+
+
+
+
+
+
+
+
+Features
+Contact Form 7 Auto Responder Addon is a plugin which completely transforms contact form 7 plugin into a lead generating and list building software.
+
+    Normally CF7 sends the inquiry(content) to the email, but our plugin not only does this but it also sends the inquiry to autoresponders like aweber, mailchimp, getresponse, imnica mail, icontact, constant contact, vertical response and campaign monitor.
+
+    Not only this all the inquiry are stored in the back end of the plugin where you can easily download in your excel sheet.
+
+Storage for Contact Form 7 – Inbuilt Feature
+
+Let’s take a look at some of the key features…
+1.    Our software integrates Contact Form 7 to your email auto responder accounts (see below for p</strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 html mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/448204208/16_Preview_page.__large_preview.jpg" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>Astrology and Horoscope Responsive  HTML 5 Template</p>
+       <a href="https://themeforest.net/item/astrology-site-template/full_screen_preview/20474820" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://themeforest.net/item/astrology-site-template/20474820" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal6">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal6" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://themeforest.net/item/astrology-site-template/20474820" target="_blank">Astrology and Horoscope Responsive  HTML 5 Template</a></h3><img src="https://previews.customer.envatousercontent.com/files/448204208/16_Preview_page.__large_preview.jpg" />
+		<p><strong>Astrology Multipurpose Responsive HTML Template
+Astrology is a clean responsive HTML Template suitable for Astro business or multipurpose Zodiac website. It comes with 67 Valid HTML5 &amp; CSS3 Pages based on Twitter Bootstrap grid system, a Unique designed Header and Footer with a elegant and beautiful Homepage with a detailed Pricing Table.
+
+You can display all the different Astrology related services with this template like Horoscopes readings, Gemstone Consultancy, Numerology, Tarot Card Readings, Birth Journals and Vastu Shastra Consultancy. Users can login and you can set appointments between your Astrology enthusiast customers and Astrologers, Tarot readers and Gemstones. You can maintain a neat blog with different kinds of layout op</strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 html mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/421012052/02.__large_preview.png" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>Miraculous Online Music Store HTML Template</p>
+       <a href="https://themeforest.net/item/miraculous-online-music-store-html-template/full_screen_preview/22317727" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://themeforest.net/item/miraculous-online-music-store-html-template/22317727" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal7">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal7" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://themeforest.net/item/miraculous-online-music-store-html-template/22317727" target="_blank">Miraculous Online Music Store HTML Template</a></h3><img src="https://previews.customer.envatousercontent.com/files/421012052/02.__large_preview.png" />
+		<p><strong>Miraculous – Online Music Store is a clean responsive HTML Template suitable for  Music business or online music streaming. Mainly, the template contains three versions and it comes with 25 Valid HTML5 &amp; CSS3 Pages based on Twitter Bootstrap grid system, a Unique designed and an elegant and beautiful Homepage with a detailed Pricing Table.
+”At the point when words blur, music talks.” Do you feel your melodic ability or music office is blurring without end? Well at that point it’s a great opportunity to buzz up your music aptitudes with a delectable music site.
+Miraculous Online Music Store HTML Template is a streaming music service. By which you can play any song at any time. Miraculous Online Music Store HTML Template is designed very </strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 wordpress mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/385233296/auto-car-preview-image.__large_preview.jpg" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>Auto Car WordPress Theme</p>
+       <a href="https://themeforest.net/item/car-dealer-wordpress-theme-auto-car/full_screen_preview/14864727" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://themeforest.net/item/car-dealer-wordpress-theme-auto-car/14864727" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal8">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal8" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://themeforest.net/item/car-dealer-wordpress-theme-auto-car/14864727" target="_blank">Auto Car WordPress Theme</a></h3><img src="https://previews.customer.envatousercontent.com/files/385233296/auto-car-preview-image.__large_preview.jpg" />
+		<p><strong>Car Dealer WordPress Theme  This Theme is perfect for any Dealer Business where you can list vehicles along with feature list. The Effective vehicle search make it perfect for buyers to look after various Car or Vehicle Models available.
+
+Car Dealer WordPress Theme
+Two Wheeler Dealer WordPress Theme
+
+Features
+
+Fully Responsive Framework – mobile optimized, built using the latest Bootstrap
+Automotive Listings – easy to add, edit, and remove as your inventory changes 
+Filterable Inventory – listings are completely filterable &amp; sortable 
+Custom Categories &amp; Taxonomies – easily customize to suit your website
+4 Diffrent Layouts option for Car Listing page
+Added EMI Calculator Feature
+Easy to use Contact Forms 
+Multi Vehicle Comparison – </strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 html mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/277850269/00_Preview.__large_preview.jpg" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>Resume, CV & Portfolio Responsive  HTML 5 Template</p>
+       <a href="https://themeforest.net/item/portfolio-and-cv/full_screen_preview/20793394" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://themeforest.net/item/portfolio-and-cv/20793394" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal9">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal9" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://themeforest.net/item/portfolio-and-cv/20793394" target="_blank">Resume, CV & Portfolio Responsive  HTML 5 Template</a></h3><img src="https://previews.customer.envatousercontent.com/files/277850269/00_Preview.__large_preview.jpg" />
+		<p><strong>Portfolio is perfectly responsive HTML Template, with a Unique and Creative design. It comes with HTML5 &amp; CSS3 Pages based on Twitter Bootstrap grid system. A Modern design premium quality HTML Template with advanced features, different design owl slider, various free icons,images and Google fonts and much more to build your own unique and professional portfolio. A clean and beautiful template with About and Portfolio section which can be displayed in a very magnificent manner. A wonderful Template to showcase your work and talent in a very unique way.
+
+    If you want to instantly direct the attention of your product or works, you should opt for portfolio HTML Template. This Template for portfolio is specifically made to show off your </strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 html mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/252832794/Preview/00_Preview.__large_preview.jpg" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>Health Care - Doctor Hospital Clinic Medical Responsive Website Template</p>
+       <a href="https://themeforest.net/item/health-care-doctor-hospital-clinic-medical-responsive-website-template/full_screen_preview/7771238" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://themeforest.net/item/health-care-doctor-hospital-clinic-medical-responsive-website-template/7771238" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal10">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal10" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://themeforest.net/item/health-care-doctor-hospital-clinic-medical-responsive-website-template/7771238" target="_blank">Health Care - Doctor Hospital Clinic Medical Responsive Website Template</a></h3><img src="https://previews.customer.envatousercontent.com/files/252832794/Preview/00_Preview.__large_preview.jpg" />
+		<p><strong>
+
+
+
+
+
+
+
+
+
+
+
+Health Care – Responsive Medical Health Template
+HealthCare Template:-  Technologies make world very hi-tech. Every business and industries are efficiently utilizing these technological platforms for their growth. Even these technologies are effectively used by medical related businesses. 
+E-Commerce product of tech-world is the best gift for every business and industries. Every medical business like hospital, clinic, chemist, healthcare organization, etc. is utilizing this gift of technology. 
+We also used these technologies in brilliant manner and here we are introducing your product “Health Care – Responsive Website Template” which suites to each and every medical businesses.
+       Health Care – Hospital/clinic website templ</strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 wordpress mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/372150473/preview-image.__large_preview.jpg" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>E learning - Education & Training Institute WordPress Theme with AI Blog Content Generator & Chatbot</p>
+       <a href="https://themeforest.net/item/education-training-institute-wordpress-theme/full_screen_preview/20102210" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://themeforest.net/item/education-training-institute-wordpress-theme/20102210" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal11">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal11" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://themeforest.net/item/education-training-institute-wordpress-theme/20102210" target="_blank">E learning - Education & Training Institute WordPress Theme with AI Blog Content Generator & Chatbot</a></h3><img src="https://previews.customer.envatousercontent.com/files/372150473/preview-image.__large_preview.jpg" />
+		<p><strong>
+
+Education &amp; Training Institute WordPress Theme for the all business and firms related to education sector and Training Institutes, We developed this Training Institute WordPress Theme as their passport for the future business growth. The design and visuals of the theme are very inviting as to attract the customers. 
+We also have:-
+
+
+
+This Training Institute WordPress Theme with AI Blog Content Generator and Chatbot can used by and for education academy, coursera, elearning courses, a learning management system, teaching online, training online, training center website, university website and more. Well Documentation is been done by the our experienced developers. With the stunning portfolio pages showcase your creative academia, top r</strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 php-scripts mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/281308239/Preview.jpg" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>Theme portal multi-vendor eCommerce marketplace - sell digital products, themes, plugins, php script</p>
+       <a href="https://codecanyon.net/item/theme-portal-marketplace-sell-digital-products-themes-plugins-scripts-multi-vendor/full_screen_preview/16869890" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://codecanyon.net/item/theme-portal-marketplace-sell-digital-products-themes-plugins-scripts-multi-vendor/16869890" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal12">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal12" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://codecanyon.net/item/theme-portal-marketplace-sell-digital-products-themes-plugins-scripts-multi-vendor/16869890" target="_blank">Theme portal multi-vendor eCommerce marketplace - sell digital products, themes, plugins, php script</a></h3><img src="https://previews.customer.envatousercontent.com/files/281308239/Preview.jpg" />
+		<p><strong>
+
+	
+
+Please check the  Online Documentation for more details of the Marketplace.
+
+
+Version 4.5 Updated on 19 JAN 2022
+
+- Major/Minor issues resolved. 
+
+
+Version 4.5 Updated on 24 April 2020
+
+- Bug Fixed
+- Paystack payment for Africa 
+- Category page bug
+- Demo bug
+- Guest checkout
+
+
+Version 4.4 Updated on 13 February 2020
+
+- Bug Fixed
+- Iframe issue solved.
+- Paid product show issue solved.
+- Solved Installation process issue.
+
+
+Version 4.3 Updated on 15 April 2018
+
+- We have added new front-end theme
+- Product image resolution issue fixed 
+
+
+Version 4.2 Updated on 25 January 2018
+Version 4.2 (Minor update ) 
+- Installation issue solved with local host. 
+- Front end single testimonials image issue solved.
+- Local host file upload issue solv</strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 wordpress mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/236859336/preview.jpg" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>CF7 Aweber Add-on</p>
+       <a href="https://codecanyon.net/item/contact-form-7-aweber-addon/full_screen_preview/8096003" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://codecanyon.net/item/contact-form-7-aweber-addon/8096003" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal13">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal13" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://codecanyon.net/item/contact-form-7-aweber-addon/8096003" target="_blank">CF7 Aweber Add-on</a></h3><img src="https://previews.customer.envatousercontent.com/files/236859336/preview.jpg" />
+		<p><strong>
+
+
+
+
+
+
+
+
+
+
+
+Introduction 
+Contact Form 7 Aweber Addon! This Plugin literally takes the simplicity of C Form 7 and completely transforms it into a lead generating and list building facility….
+
+This plugin integrates with Aweber Auto Responder and send the email directly to your Aweber list. It also stores all the inquiries in the WordPress backend so you can save it via csv into your PC.
+
+    
+Features 
+
+ You Can Add Multiple Custom Fields
+Easy to Map Aweber field to Contact form 7 field through Drag &amp; Drop
+    Aweber Statistics in your Wordpress Dashboard
+    10 inbuilt pretty &amp; attractive templates to create your own Subscriber form , with no waste of time.
+    Add functionality for multiple form connect to the multiple list
+    Ch</strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 wordpress mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/375267783/preview-image.__large_preview.jpg" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>Dance Academy WordPress Theme with Automatic AI - Blog Content Generator And Chatbot</p>
+       <a href="https://themeforest.net/item/dance-academy/full_screen_preview/19080455" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://themeforest.net/item/dance-academy/19080455" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal14">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal14" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://themeforest.net/item/dance-academy/19080455" target="_blank">Dance Academy WordPress Theme with Automatic AI - Blog Content Generator And Chatbot</a></h3><img src="https://previews.customer.envatousercontent.com/files/375267783/preview-image.__large_preview.jpg" />
+		<p><strong>
+
+DANCE theme is a single-page multi-purpose theme. It is easy to use and understand. Set the website with a single click. We have greatly extended initial WordPress admin to provide you with more functionality that includes a wide variety of options and settings and provides maximum customization flexibility to help you create a dancing school or dance website, dance blog as well as any other fitness website, like salsa dancing website or ballet dancing studio website.
+
+
+ The theme is integrated with AI content generator plugin , that allows you to quickly and easily generate massive content for your blogs. Utilizing the power of natural language processing technology, this plugin makes it simple to generate valuable, engaging, relevant, a</strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 html mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/378714522/barbers%20_02.__large_preview.jpg" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>Spa, Hair Salon & Beauty, Barber Shop Html Template</p>
+       <a href="https://themeforest.net/item/barber-html-template-for-barbers-and-hair-salon/full_screen_preview/13538723" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://themeforest.net/item/barber-html-template-for-barbers-and-hair-salon/13538723" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal15">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal15" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://themeforest.net/item/barber-html-template-for-barbers-and-hair-salon/13538723" target="_blank">Spa, Hair Salon & Beauty, Barber Shop Html Template</a></h3><img src="https://previews.customer.envatousercontent.com/files/378714522/barbers%20_02.__large_preview.jpg" />
+		<p><strong>Barber – Html Template for Spa, Hair Salon &amp; Beauty Salon, and Barber Shop
+
+Spa, hair salon &amp; beauty, barber shop html template is a clean responsive html template specially built for beauty, spa, salons,  barbershop, care, hair, health, massage, physiotherapy, wellness center, makeup, cosmetic and treatment center and any kind of barber and hair dresser businesses and companies.
+
+Spa, hair salon &amp; beauty, barber shop html template is a neat and clean but complete multipurpose HTML template. if you want to present your activity on the internet in the modern way. This item is a HTML template, so it is fully adaptable for any purpose.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UPDATE
+
+    
+
+Features
+
+    DEMO With Different Color Variations
+    Different Home</strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 html mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/224113086/Theme%20Preview/00_preview.__large_preview.__large_preview.jpg" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>Artist Sketch Responsive HTML Template</p>
+       <a href="https://themeforest.net/item/artist-sketch-responsive-html-template/full_screen_preview/6643993" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://themeforest.net/item/artist-sketch-responsive-html-template/6643993" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal16">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal16" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://themeforest.net/item/artist-sketch-responsive-html-template/6643993" target="_blank">Artist Sketch Responsive HTML Template</a></h3><img src="https://previews.customer.envatousercontent.com/files/224113086/Theme%20Preview/00_preview.__large_preview.__large_preview.jpg" />
+		<p><strong>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+Overview
+This theme is a Multiple Pages layout. Artist Sketch Responsive HTML Template Based on Bootstrap’s 12 column Responsive grid Template, which can be used for Artist, Sketch artist, designers, photographer ad all types of portfolio much more.
+
+    
+
+    
+
+This Template is based on sketch effect with various different sketches on hover of images and buttons.
+Its fully Responsive Template.
+
+ Update 
+ Date 10/03/2022 Version 2.2
+- Updated Libraries
+- Fixed Minor / Major Issues
+
+
+ Date 10/04/2017 Version 2.1
+-Fixed - jQuery bug
+-Update jQuery structure
+-Slider revolution update
+
+
+ Date : 23/04/2014  Version 2.0
+- Sliders Mask Problem Solve 
+- Thumbnails Masking Problem Solve 
+- IE Image Masking Problem Solve 
+- Auto Sl</strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 wordpress mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/389961240/preview-image.__large_preview.png" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>Water Sports, Yacht & Fishing WordPress Theme With AI Content Generator</p>
+       <a href="https://themeforest.net/item/fishing-yacht-water-sports-fishing-club-wordpress-theme/full_screen_preview/15789847" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://themeforest.net/item/fishing-yacht-water-sports-fishing-club-wordpress-theme/15789847" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal17">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal17" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://themeforest.net/item/fishing-yacht-water-sports-fishing-club-wordpress-theme/15789847" target="_blank">Water Sports, Yacht & Fishing WordPress Theme With AI Content Generator</a></h3><img src="https://previews.customer.envatousercontent.com/files/389961240/preview-image.__large_preview.png" />
+		<p><strong>
+
+
+
+Fishing Club Wordpress Theme is one of the best theme in themeforest , best for fishing club agency , fishing tour, yacht, marine life, fishing sports,water sports and similar business.
+This Theme is Perfect for any Fishing Business or Club, where one can setup its official site using this WordPress Theme. Theme is fully loaded with various options like Gallery, Events, and Shop Pages. Theme Comes with Woocommerce so one can setup the shop in just few clicks and sell fishing related equipments.
+ The theme is also integrated with AI content generator plugin, that allows you to quickly and easily generate massive content for your blogs. Utilizing the power of natural language processing technology, this plugin makes it simple to generate </strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 php-scripts mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/397584097/Preview_570x300-old.jpg" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>E- Academy - Online Learning Management System & live streaming classes (web)</p>
+       <a href="https://codecanyon.net/item/e-academy-online-class-and-course-management-system/full_screen_preview/26927825" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://codecanyon.net/item/e-academy-online-class-and-course-management-system/26927825" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal18">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal18" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://codecanyon.net/item/e-academy-online-class-and-course-management-system/26927825" target="_blank">E- Academy - Online Learning Management System & live streaming classes (web)</a></h3><img src="https://previews.customer.envatousercontent.com/files/397584097/Preview_570x300-old.jpg" />
+		<p><strong>We all are in the middle of a pandemic and it’s no doubt that these hard times have affected us all. Due to the ongoing crisis, all the education centers are also locked down, and teachers &amp; educational institutions have come online to make sure that the studies are continued, and there is no educational loss of students.
+
+Try our demo – 
+Admin:
+https://kamleshyadav.com/e-academy/login
+Username – admin@eacademy.com 
+Password – 123
+
+	Teacher:
+Username – alexa@eacademy.com
+Password – 123
+
+
+Student:
+Username – ACAD12491
+Password – 123
+
+
+Please check the  Online Documentation and  User Manual for more details of the Script.
+ 
+
+Intro
+
+	  
+
+
+But, there is one problem…conducting and managing online classes is not an easy job, and even a small </strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 wordpress mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/254085983/preview.jpg" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>CF7 7 Mailchimp Add-on</p>
+       <a href="https://codecanyon.net/item/contact-form-7-mailchimp-addon/full_screen_preview/8622597" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://codecanyon.net/item/contact-form-7-mailchimp-addon/8622597" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal19">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal19" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://codecanyon.net/item/contact-form-7-mailchimp-addon/8622597" target="_blank">CF7 7 Mailchimp Add-on</a></h3><img src="https://previews.customer.envatousercontent.com/files/254085983/preview.jpg" />
+		<p><strong>
+
+
+
+
+
+
+
+
+
+
+
+Introduction 
+Contact Form 7 Mailchimp Addon! This Plugin literally takes the simplicity of C Form 7 and completely
+
+    transforms it into a lead generating and list building facility….
+
+This plugin integrates with Mailchimp Auto Responder. It also stores all the enquiries in the 
+
+    WordPress backend so you can save it via csv into your PC.
+
+Features 
+
+ You Can Add Multiple Custom Fields
+ Easy to Map Mailchimp field to Contact form 7 field through Drag &amp; Drop
+    Don’t have to move to Mailchimp Account, just to check the new visitors record.
+    10 Inbuilt pretty &amp; attractive templates to create your own Subscriber form , with no waste of time.
+    Add functionality for multiple form connect to the multiple list
+    </strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 wordpress mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/406439613/Preview.__large_preview.png" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>Invory - Services Elementor WordPress Theme With AI Content Generator</p>
+       <a href="https://themeforest.net/item/invory-pool-cleaning-laundry-construction-travel-wordpress-theme/full_screen_preview/13562121" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://themeforest.net/item/invory-pool-cleaning-laundry-construction-travel-wordpress-theme/13562121" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal20">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal20" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://themeforest.net/item/invory-pool-cleaning-laundry-construction-travel-wordpress-theme/13562121" target="_blank">Invory - Services Elementor WordPress Theme With AI Content Generator</a></h3><img src="https://previews.customer.envatousercontent.com/files/406439613/Preview.__large_preview.png" />
+		<p><strong>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Invory – Elementor WordPress Theme is a professionally coded, graphically designed, expertise tested, appealingly gorgeous, gracefully ingenious theme. Theme has not only multiple concept but also has multiple features and functionalities. Invory theme is a star performer for business related to travel, pool, construction, building, carpentering, resorts, agency, online outlets etc. Invory theme comes with 22 beautiful versions. The concept of theme is great and prolific for every business. Elementor, Revolution Slider and Visual Composer are best engrossing part of the theme, which helps you to represent yourself wonderfully. Its compatibility with multilingual &amp; cross- browser and support to latest Woo Commerce make u</strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 wordpress mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/382171505/Preview.__large_preview.jpg" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>Medical Equipment - eCommerce WordPress Theme</p>
+       <a href="https://themeforest.net/item/medicart-ppe-kit-responsive-wordpress-theme/full_screen_preview/27751476" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://themeforest.net/item/medicart-ppe-kit-responsive-wordpress-theme/27751476" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal21">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal21" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://themeforest.net/item/medicart-ppe-kit-responsive-wordpress-theme/27751476" target="_blank">Medical Equipment - eCommerce WordPress Theme</a></h3><img src="https://previews.customer.envatousercontent.com/files/382171505/Preview.__large_preview.jpg" />
+		<p><strong>
+
+
+
+
+
+
+
+
+
+
+
+
+Medical Equipment – eCommerce WordPress Theme
+
+“Medical Equipment eCommerce WordPress Theme is created by the professional WordPress theme creators, keeping in mind all the necessary requirements that theme must-have.
+
+
+Medical Equipment – eCommerce WordPress Theme is specially designed for hospitals, Clinics, Medical Suppliers, Medical Stores, Pharmacy Stores, Medical Shops, Pharmacy Shops, Health Care Centers, Surgical website, Pharmaceutical Store, Coronavirus Prevention, Surgery Cosmetic Products, Medicine Store, Cannabis &amp; Dispensary eCommerce Websites, Health Care Supplement and Clinical Laboratory Equipment related eCommerce Websites.
+
+As we are amidst coronavirus pandemic, there is a whopping need for medical equipm</strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 wordpress mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/276677340/00_Preview.__large_preview.jpg" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>Adelia - Corporate Business WordPress Theme</p>
+       <a href="https://themeforest.net/item/adelia-corporate-wordpress-theme-/full_screen_preview/10982801" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://themeforest.net/item/adelia-corporate-wordpress-theme-/10982801" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal22">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal22" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://themeforest.net/item/adelia-corporate-wordpress-theme-/10982801" target="_blank">Adelia - Corporate Business WordPress Theme</a></h3><img src="https://previews.customer.envatousercontent.com/files/276677340/00_Preview.__large_preview.jpg" />
+		<p><strong>
+
+
+
+
+
+
+
+
+
+
+
+
+Adelia – Corporate WordPress Theme – Perfect theme for any Corporates,Business, Agency, Company Websites.
+Adelia is a tech savvy multipurpose responsive wordpress theme, powered by famous redux framework, ready to go with WooCommerce e-commerce platform.“Adelia” means NOBLE or HONORABLE. As the name say everything about the wordpress theme, but here I would like to give a brief introduction about our multipurpose responsive woocommerce theme. Adelia is a responsive multipurpose WordPress Theme; with simple classical fab glance. Theme have not only fascinating classical glimpse but it is adroit in features. Its 5-stylish home page and pre-options of 8-color &amp; background patterns make your eCommerce site terrifically graceful</strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 html mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/372855972/Travelite.__large_preview.jpg" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>Travel & Tour Booking HTML Template</p>
+       <a href="https://themeforest.net/item/travel-pro-tours-and-travels-booking-html5-template/full_screen_preview/14961754" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://themeforest.net/item/travel-pro-tours-and-travels-booking-html5-template/14961754" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal23">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal23" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://themeforest.net/item/travel-pro-tours-and-travels-booking-html5-template/14961754" target="_blank">Travel & Tour Booking HTML Template</a></h3><img src="https://previews.customer.envatousercontent.com/files/372855972/Travelite.__large_preview.jpg" />
+		<p><strong>Travelite is a clean HTML template suitable for Travel and Tour business ,booking tickets &amp; portfolio website. It comes with 48 Valid HTML5 &amp; CSS3 Pages based on Twitter Bootstrap grid system.
+
+    
+
+Features
+48 HTML5 Valid Pages (CSS3)
+3 Diffrent Section Included
+Tours
+Hotels
+Flights
+5 Color Variations
+Booking Pages
+Destination Pages
+Simple and Clean
+Various Home,Blog Pages
+Single and List Style Blog
+Offer Page
+Event Page
+Coming Soon Page
+Free Icons &amp; Fonts
+Revolution Slider
+Gallery Section
+Feature – Toggle, Accordion, Tabs
+Fully Responsive template
+Nice JQuery files: Responsive Slider, Preloader, Menu…
+Google Web Fonts
+Compatible With Major Modern Browsers 
+
+Update 
+ Date 30/03/2022
+- Updated Libraries
+- Fixed Minor Bugs
+
+
+Fon</strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 php-scripts mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/355491038/00_preview.jpg" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>Event Management System - Perfect Day</p>
+       <a href="https://codecanyon.net/item/event-management-system-perfect-day/full_screen_preview/9241502" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://codecanyon.net/item/event-management-system-perfect-day/9241502" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal24">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal24" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://codecanyon.net/item/event-management-system-perfect-day/9241502" target="_blank">Event Management System - Perfect Day</a></h3><img src="https://previews.customer.envatousercontent.com/files/355491038/00_preview.jpg" />
+		<p><strong>
+
+
+
+
+
+
+
+
+
+
+
+Event Management System – Perfect Day
+
+“Event Management System – Perfect Day” is A very powerful and robust Event Management System developed and build on the very famous – CI abbreviated as “CodeIgniter” MVC framework. Featuring all aspects to manage and organize all your events at one place with ready to use PayPal payment gateway Integration.
+please don’t forget to rate it!
+
+Demo admin link
+Admin Credential:
+ Email:admin@event.com
+ password :12345678
+
+Demo vendor link
+Vendor Credential:
+ Email:vendor@event.com
+ password :12345678
+
+
+
+Features
+
+    Multiple Event Creation &amp; Individual Booking System 
+    Paypal IPN Integration
+    Offline Payment Method
+    Custom Branding 
+    Parallax effect
+    Drag &amp; Drop Image Upl</strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 html mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/372155030/05-Cycling.__large_preview.jpg" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>Cycling Multipurpose Responsive HTML Template</p>
+       <a href="https://themeforest.net/item/cycling-multipurpose-responsive-html-template/full_screen_preview/20829958" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://themeforest.net/item/cycling-multipurpose-responsive-html-template/20829958" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal25">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal25" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://themeforest.net/item/cycling-multipurpose-responsive-html-template/20829958" target="_blank">Cycling Multipurpose Responsive HTML Template</a></h3><img src="https://previews.customer.envatousercontent.com/files/372155030/05-Cycling.__large_preview.jpg" />
+		<p><strong>Cycling is a  modern, clean and professional HTML template, It is fully responsive,it looks stunning on all kind of screens and devices. It suitable for business or multipurpose website. It comes with Valid HTML5 &amp; CSS3 Pages based on Twitter Bootstrap grid system.It is looking good with it’s clean and fresh design. All sub pages are also customized.
+
+Thank you for visiting this Cycling Multipurpose Responsive HTML Template. If you have any queries that are beyond the scope of this help file, please feel free to email. Do visit us again,Thank you.
+
+    
+
+Features
+
+    Three different layouts
+    Gallery and Contact Page
+    Team and Upcoming Event section
+    Single, Large Image Style Blog Pages
+    Feature – Toggle, Tabs, Sidebar
+    P</strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 wordpress mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/376236544/Self%20Intro.__large_preview.jpg" />
+        <div class="home_box_media_overlay">
+       <div class="home_box_media_buttons">
+        <p>Resume, CV & Portfolio WordPress Theme</p>
+       <a href="https://themeforest.net/item/selfintro-a-cv-portfolio-wordpress-theme/full_screen_preview/21394155" class="home_btn"  target="_blank">Preview</a>
+       <a href="https://themeforest.net/item/selfintro-a-cv-portfolio-wordpress-theme/21394155" class="home_btn"  target="_blank">Buy Now</a>
+    <a href="#" class="home_btn" data-toggle="modal" data-target="#exampleModal26">View</a>
+      </div>
+     </div>
+     </div>
+    </div>
+ </div>
+ <div class="modal fade" id="exampleModal26" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+	    <div class="modal-header">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+	       <h3>
+	     <a href="https://themeforest.net/item/selfintro-a-cv-portfolio-wordpress-theme/21394155" target="_blank">Resume, CV & Portfolio WordPress Theme</a></h3><img src="https://previews.customer.envatousercontent.com/files/376236544/Self%20Intro.__large_preview.jpg" />
+		<p><strong>In today’s competitive world gaining an edge over the tough competition has become very essential for the development of a career. The need for an excellent resume and portfolio is a paramount thing for your career. A good and unique portfolio can help you very much in getting noticed while applying for a competitive position. It’s very important to showcase your talent and brilliant skills in a unique way for securing a good job or a promotion.
+
+
+
+
+
+
+
+    This Selfintro – A CV &amp; Portfolio WordPress Theme will be very beneficial for your career regardless of your profession. In this crowded job search market, this Selfintro – A CV &amp; Portfolio WordPress Theme will be increasing your visibility in the entire online market. With this W</strong></p>
+	     </div>
+      </div>
+    </div>     
+  <div class="col-lg-4 col-md-4 col-sm-12 wordpress mix mix_all ">
+    <div class="home_box">
+       <div class="home_box_media">
+         <img src="https://previews.customer.envatousercontent.com/files/436256838/01
